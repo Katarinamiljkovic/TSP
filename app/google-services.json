@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "770350334109",
+    "project_id": "studentskiservis-35820",
+    "storage_bucket": "studentskiservis-35820.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770350334109:android:0db662401ba5a891939474",
+        "android_client_info": {
+          "package_name": "kod.tsp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770350334109-1t2oh8p07pk92d37lfrqjedosoa6ogus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmDFm1-IU_DHqg1KWl4nfM6noXxtjX55w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770350334109-1t2oh8p07pk92d37lfrqjedosoa6ogus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
